@@ -56,6 +56,15 @@
 --------------------------------------------------------*/
 /* Patua One */
 /* P  */
+.hand{
+  cursor: pointer;
+}
+#yes2{
+  display: none;
+}
+#yes3{
+  display: none;
+}
 .Livviche{
    font-family: 'Livvic';
 }
